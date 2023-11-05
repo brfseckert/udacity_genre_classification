@@ -1,7 +1,7 @@
 name: download_data
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
   - pandas=1.2.3
   - pip=20.3.3
@@ -13,3 +13,5 @@ dependencies:
   - pip:
       - wandb==0.10.21
       - omegaconf==2.0.6
+      - protobuf==3.19.0
+      - numpy==1.23.5

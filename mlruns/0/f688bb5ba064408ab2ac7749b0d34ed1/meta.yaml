@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/felip/Documents/knowledge/ml_projects/udacity_genre_classification/mlruns/0/f688bb5ba064408ab2ac7749b0d34ed1/artifacts
+end_time: 1699204878823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f688bb5ba064408ab2ac7749b0d34ed1
+run_uuid: f688bb5ba064408ab2ac7749b0d34ed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699204869605
+status: 3
+tags: []
+user_id: fseckert

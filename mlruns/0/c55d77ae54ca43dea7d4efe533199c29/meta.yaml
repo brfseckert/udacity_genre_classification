@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/felip/Documents/knowledge/ml_projects/udacity_genre_classification/mlruns/0/c55d77ae54ca43dea7d4efe533199c29/artifacts
+end_time: 1699205388817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c55d77ae54ca43dea7d4efe533199c29
+run_name: rare-newt-435
+run_uuid: c55d77ae54ca43dea7d4efe533199c29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699205377080
+status: 4
+tags: []
+user_id: fseckert

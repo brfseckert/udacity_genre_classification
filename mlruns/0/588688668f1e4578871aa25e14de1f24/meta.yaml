@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/felip/Documents/knowledge/ml_projects/udacity_genre_classification/mlruns/0/588688668f1e4578871aa25e14de1f24/artifacts
+end_time: 1699204647696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 588688668f1e4578871aa25e14de1f24
+run_name: thoughtful-swan-354
+run_uuid: 588688668f1e4578871aa25e14de1f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699204614321
+status: 4
+tags: []
+user_id: fseckert

@@ -1,0 +1,33 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-11-05T17:17:47.576547",
+    "startedAt": "2023-11-05T17:17:46.484293",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "exercise_14/raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Preprocessed data"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/felip/Documents/knowledge/ml_projects/udacity_genre_classification/preprocess/run.py",
+    "codePath": "preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/brfseckert/udacity_genre_classification.git",
+        "commit": "4ff0a1c5a861b532106ef898ce46b05529b0c992"
+    },
+    "email": "felipeeckert@hotmail.com",
+    "root": "/mnt/c/Users/felip/Documents/knowledge/ml_projects/udacity_genre_classification",
+    "host": "DESKTOP-LIT2AIU",
+    "username": "fseckert",
+    "executable": "/home/fseckert/miniconda3/envs/mlflow-d84c653eadd3365f459efbf3bf886772e1fa9308/bin/python"
+}

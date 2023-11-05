@@ -1,0 +1,33 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-11-05T17:21:13.445534",
+    "startedAt": "2023-11-05T17:21:12.202183",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/felip/Documents/knowledge/ml_projects/udacity_genre_classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/brfseckert/udacity_genre_classification.git",
+        "commit": "4ff0a1c5a861b532106ef898ce46b05529b0c992"
+    },
+    "email": "felipeeckert@hotmail.com",
+    "root": "/mnt/c/Users/felip/Documents/knowledge/ml_projects/udacity_genre_classification",
+    "host": "DESKTOP-LIT2AIU",
+    "username": "fseckert",
+    "executable": "/home/fseckert/miniconda3/envs/mlflow-b238cb46f14b282a6a8806d124ee3d5f2eb0ddef/bin/python"
+}

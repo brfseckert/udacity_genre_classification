@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/felip/Documents/knowledge/ml_projects/udacity_genre_classification/mlruns/0/f122c87a7f23428cabdf587ed678b65f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f122c87a7f23428cabdf587ed678b65f
+run_name: capable-lynx-290
+run_uuid: f122c87a7f23428cabdf587ed678b65f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699205602781
+status: 1
+tags: []
+user_id: fseckert

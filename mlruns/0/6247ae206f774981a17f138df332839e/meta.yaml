@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/felip/Documents/knowledge/ml_projects/udacity_genre_classification/mlruns/0/6247ae206f774981a17f138df332839e/artifacts
+end_time: 1699205528626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6247ae206f774981a17f138df332839e
+run_name: likeable-deer-618
+run_uuid: 6247ae206f774981a17f138df332839e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699205487673
+status: 4
+tags: []
+user_id: fseckert
